@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer engineering student and full-stack developer with a strong grasp of DSA, Python, and Django. I enjoy building scalable web apps that combine clean design with efficient backend systems.
+I'm a computer engineering student and full-stack developer with a strong grasp of DSA, Python, Django and MERN Stack. I enjoy building scalable web apps that combine clean design with efficient backend systems.
 
 I'm currently deepening my expertise in AI and Machine Learning, focusing on real-world applications like predictive modeling and intelligent automation using Python-based tools.
 
