@@ -1,6 +1,13 @@
 # 💫 About Me:
-Full-Stack Developer<br>DSA <br>AI/ML Learner <br>Cloud Enthusiast <br>Building with Django, Python, Java, JavaScript & more<br>SQl, MongoDB<br>
+I'm a computer engineering student and full-stack developer with a strong grasp of DSA, Python, and Django. I enjoy building scalable web apps that combine clean design with efficient backend systems.
 
+I'm currently deepening my expertise in AI and Machine Learning, focusing on real-world applications like predictive modeling and intelligent automation using Python-based tools.
+
+I'm also exploring Cloud Computing with platforms like AWS and GCP to deploy and scale modern applications using cloud-native services.
+
+I've worked on a range of real-world projects including StudyBud, a full-stack Django application for collaborative study groups, and an Event Registration Platform with secure user management and email confirmations. I also helped build a prototype for an Unmanned Ground Combat Vehicle (UGCV), integrating autonomous control systems. Other projects include e-commerce interfaces and terminal-based Java applications demonstrating OOP principles.
+
+Passionate about solving problems, I frequently participate in hackathons, collaborate on projects, and refine my skills through platforms like LeetCode and GeeksforGeeks.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/utsavsingh35) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Utsav Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:us101741@gmail.com) 
